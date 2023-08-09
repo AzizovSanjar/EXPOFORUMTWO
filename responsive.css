@@ -1,0 +1,36 @@
+  @media(max-width: 1279px) {
+    .container {
+      max-width: 1110px;
+    }
+  }
+  @media(max-width: 1100px) {
+    .container {
+      max-width: 798px;
+    }
+  } 
+  @media(max-width: 990px) {
+    .container {
+      max-width: 750px;
+    }
+    .events_lists{
+        display: flex;
+        flex-direction: column;
+    }
+  } 
+
+  @media(max-width: 750px) {
+    .container {
+      max-width: 500px;
+    }
+  } 
+
+    @media (max-width: 1139) {
+    .events_lists li li {
+      width: 48%;
+    }
+  }
+  @media (max-width: 767px) {
+    .events_lists li .li {
+      max-width: 100%;
+    }
+  }
