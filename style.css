@@ -10,6 +10,7 @@ body, li, ul, p, h1, h2, h3, h4 {
     position: relative;
   }
   
+  
   .container {
     width: 100%;
     max-width: 1170px;
